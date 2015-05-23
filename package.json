@@ -1,0 +1,24 @@
+{
+  "name": "hubot-alc",
+  "version": "0.0.1",
+  "description": "alc",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaneshin/hubot-alc.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "alc"
+  ],
+  "author": "Shintaro Kaneko <kaneshin0120@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaneshin/hubot-alc/issues"
+  },
+  "homepage": "https://github.com/kaneshin/hubot-alc#readme"
+}
